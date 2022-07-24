@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-24T19:51:00 IST" name="Default suite" finished-at="2022-07-24T19:51:29 IST" duration-ms="28251">
+    <groups>
+    </groups>
+    <test started-at="2022-07-24T19:51:00 IST" name="Default test" finished-at="2022-07-24T19:51:29 IST" duration-ms="28251">
+      <class name="emps.EmpsTestCaseLoginPage">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:00 IST" name="initializeDriver" finished-at="2022-07-24T19:51:08 IST" duration-ms="7357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase1()[pri:1, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:08 IST" name="testCase1" description="To Validate the functionalities of the login page when the user entered valid credentials" finished-at="2022-07-24T19:51:10 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:10 IST" name="loginPageTest" finished-at="2022-07-24T19:51:10 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:10 IST" name="initializeDriver" finished-at="2022-07-24T19:51:12 IST" duration-ms="1881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase2()[pri:2, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:12 IST" name="testCase2" description="To Validate the functionalities of the login page when the user entered  Invalid credentials" finished-at="2022-07-24T19:51:12 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:12 IST" name="loginPageTest" finished-at="2022-07-24T19:51:12 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:12 IST" name="initializeDriver" finished-at="2022-07-24T19:51:14 IST" duration-ms="1853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase3()[pri:3, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:14 IST" name="testCase3" description="To Validate the functionalities of the login page when the user enters valid username and invalid password" finished-at="2022-07-24T19:51:14 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:14 IST" name="loginPageTest" finished-at="2022-07-24T19:51:14 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:14 IST" name="initializeDriver" finished-at="2022-07-24T19:51:16 IST" duration-ms="1711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase4()[pri:4, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:16 IST" name="testCase4" description="To Validate the functionalities of the login page when the user enters Invalid username and valid password" finished-at="2022-07-24T19:51:16 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:16 IST" name="loginPageTest" finished-at="2022-07-24T19:51:16 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:16 IST" name="initializeDriver" finished-at="2022-07-24T19:51:18 IST" duration-ms="1955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testcase5()[pri:5, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:18 IST" name="testcase5" description="To Validate the functionalities of the login page when the user enters Invalid username and valid password" finished-at="2022-07-24T19:51:18 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:18 IST" name="loginPageTest" finished-at="2022-07-24T19:51:18 IST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:18 IST" name="initializeDriver" finished-at="2022-07-24T19:51:21 IST" duration-ms="2125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase6()[pri:6, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:21 IST" name="testCase6" description="To Validate the functionalities of the login page when the user enters Invalid username and leaving the password field Blank" finished-at="2022-07-24T19:51:21 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:21 IST" name="loginPageTest" finished-at="2022-07-24T19:51:21 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:21 IST" name="initializeDriver" finished-at="2022-07-24T19:51:23 IST" duration-ms="1762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase7()[pri:7, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:23 IST" name="testCase7" description="To Validate the functionalities of the login page when the user enters both username and password fields Blank" finished-at="2022-07-24T19:51:23 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:23 IST" name="loginPageTest" finished-at="2022-07-24T19:51:23 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:23 IST" name="initializeDriver" finished-at="2022-07-24T19:51:25 IST" duration-ms="1723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase8()[pri:8, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:25 IST" name="testCase8" description="To Validate the functionalities of the login page when the user Clicking on the forgot password option" finished-at="2022-07-24T19:51:25 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:25 IST" name="loginPageTest" finished-at="2022-07-24T19:51:25 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:25 IST" name="initializeDriver" finished-at="2022-07-24T19:51:28 IST" duration-ms="3103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testCase9()[pri:9, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:28 IST" name="testCase9" description="To Validate the functionalities of the Show password functionality of the transport  Manager login page " finished-at="2022-07-24T19:51:28 IST" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+        <test-method is-config="true" signature="loginPageTest()[pri:0, instance:emps.EmpsTestCaseLoginPage@40ab8a8]" started-at="2022-07-24T19:51:28 IST" name="loginPageTest" finished-at="2022-07-24T19:51:29 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+      </class> <!-- emps.EmpsTestCaseLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

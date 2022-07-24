@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Sanitysuite]" guice-stage="DEVELOPMENT" verbose="3">
+  <test thread-count="1" name="LoginScenario(failed)" verbose="3">
+    <groups>
+      <run>
+        <include name="Emps"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Emps.EmpsTestCase">
+        <methods>
+          <include name="testCase2"/>
+          <include name="test3"/>
+          <include name="loginPageTest"/>
+          <include name="testcase1"/>
+        </methods>
+      </class> <!-- Emps.EmpsTestCase -->
+    </classes>
+  </test> <!-- LoginScenario(failed) -->
+</suite> <!-- Failed suite [Sanitysuite] -->
